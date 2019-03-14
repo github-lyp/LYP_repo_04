@@ -16,4 +16,11 @@ public class hello {
         System.out.println("hello");
         System.out.println("hello");
     }
+
+    public void test(String string){
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+    }
 }
